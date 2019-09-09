@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "5d4d280b4169ae6b9ceb0d7f",
+      "name": "Relationship Manager",
+      "slug": "rm"
+    },
+    {
+      "name": "Sr. Relationship Manager",
+      "slug": "srm"
+    },
+    {
+      "_id": "5d4d28134169ae6b9ceb0d80",
+      "name": "Fraud Check Manager",
+      "slug": "fraud_check"
+    },
+    {
+      "_id": "5d4d282207f0bc0a94218aba",
+      "name": "Application Approver",
+      "slug": "approver"
+    },
+    {
+      "_id": "5d4d283f5e8c7e63a48e5577",
+      "name": "Chief Risk Officer",
+      "slug": "cro"
+    },
+    {
+      "_id": "5d4d284a5e8c7e63a48e5578",
+      "name": "Risk Officer",
+      "slug": "ro"
+    },
+    {
+      "_id": "5d4d29e0874b8231b0708e92",
+      "name": "Compliance Manager",
+      "slug": "cm"
+    },
+    {
+      "_id": "5d4d841a292817b0282c7242",
+      "name": "Head CBG",
+      "slug": "cbg"
+    },
+    {
+      "_id": "5d51088fb9f09d455c7a01f9",
+      "name": "Administrator",
+      "slug": "admin"
+    }
+  ]
+  

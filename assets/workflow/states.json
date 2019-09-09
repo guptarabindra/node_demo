@@ -1,0 +1,28 @@
+[
+    {
+        "_id" : "5d5faa6be636d514b4b1bb3d",
+        "name": "application submitted to SRM",
+        "process_id": "1"
+    },
+    {
+        "_id" : "5d5faa6be636d514b4b1bb3e",
+        "name": "SRM assign to RM",
+        "process_id": "2"
+    },
+    {
+        "_id" : "5d5faa6be636d514b4b1bb3f",
+        "name": "RM approve application",
+        "process_id": "3"
+    },
+    {
+        "_id" : "5d5faa6be636d514b4b1bb40",
+        "name": "After RM approval RM assign to SRM",
+        "process_id": "4"
+    },
+    {
+        "_id" : "5d5faa6be636d514b4b1bb41",
+        "name": "After RM approval RM assign to Risk Officer",
+        "process_id": "5"
+    }
+]
+  
