@@ -28,7 +28,7 @@ State.create(state_data);
 Request.create(request_data);
 RequestHistory.create(request_history_data);
 Transition.create(transition_data);
-console.log("seed successfully..");
+console.log("seed successfully....");
 
 
 
